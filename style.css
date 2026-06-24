@@ -91,7 +91,9 @@ body{
 }
 
 .parametro-senha__botao{
-    background-color: 
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    border: var(--borda);
 }
 .parametro-senha__texto{
 
