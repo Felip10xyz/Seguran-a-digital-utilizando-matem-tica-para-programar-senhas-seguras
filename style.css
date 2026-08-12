@@ -113,6 +113,7 @@ label{
 .checkbox{
     width: 20 px;
     height: 20px;
+    cursor: pointer; 
 }
 
 @media screen and (min-width: 768px) {
